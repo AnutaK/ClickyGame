@@ -1,4 +1,4 @@
-# Dog Clicky Game
+# Bird Clicky Game
 
 ### Overview
 
@@ -14,5 +14,5 @@ This app is a memory game with React. This project required me to break up my ap
 
 5. Once the user's score is reset after an incorrect guess, the game should restart.
 
-![Image](public/img/dog-clicky-game.png)
+![Image](public/img/bird-clicky-game.png)
 
